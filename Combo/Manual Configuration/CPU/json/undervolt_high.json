@@ -4,37 +4,37 @@
         "hex": "00"
     },
     {
-        "name": "1",
+        "name": "Level 1",
         "hex": "01",
         "color": "Orange"
     },
     {
-        "name": "2",
+        "name": "Level 2",
         "hex": "02",
         "color": "Orange"
     },
     {
-        "name": "3",
+        "name": "Level 3",
         "hex": "03",
         "color": "Orange"
     },
     {
-        "name": "4",
+        "name": "Level 4",
         "hex": "04",
         "color": "Orange"
     },
     {
-        "name": "5",
+        "name": "Level 5",
         "hex": "05",
         "color": "Orange"
     },
     {
-        "name": "6",
+        "name": "Level 6",
         "hex": "06",
         "color": "Orange"
     },
     {
-        "name": "7",
+        "name": "Level 7",
         "hex": "07",
         "color": "Orange"
     }
