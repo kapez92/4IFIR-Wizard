@@ -5,7 +5,7 @@
         "base_increment": "4,56,56,56"
 	},
 	{
-		"name": "======= GPU Voltage Table ========",
+		"name": "> GPU Voltage Table",
 		"state": "filler"
 	},
 	{
@@ -173,7 +173,7 @@
 		"state": "filler"
 	},
 	{
-		"name": "==================================",
+		"name": "",
 		"state": "filler"
 	}
 ]

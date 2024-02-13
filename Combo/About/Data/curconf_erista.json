@@ -1,6 +1,6 @@
 [
 	{
-		"name": "                  Kip Version",
+		"name": "> Kip Version",
 		"offset": "4",
 		"length": "3"
 	},
@@ -9,19 +9,14 @@
 		"state": "filler"
 	},
 	{
-		"name": "======== CPU Settings ========",
-		"state": "filler"
-	},
-	{
-		"name": "",
+		"name": "> CPU Settings",
 		"state": "filler"
 	},
 	{
 		"name": "CPU Voltage Limit",
 		"offset": "20",
 		"length": "4",
-		"extent": " mV",
-		"state": "check_extent"
+		"extent": " mV"
 	},
 	{
 		"name": "CPU Priority Mode",
@@ -29,31 +24,20 @@
 		"length": "1"
 	},
 	{
-		"name": "",
-		"state": "filler"
-	},
-	{
-		"name": "======== RAM Settings ========",
-		"state": "filler"
-	},
-	{
-		"name": "",
+		"name": "> RAM Settings",
 		"state": "filler"
 	},
 	{
 		"name": "RAM MHz",
 		"offset": "24",
 		"length": "4",
-		"extent": " MHz",
-		"state": "check_extent"
-		
+		"extent": " MHz"
 	},
 	{
 		"name": "RAM Vdd2",
 		"offset": "16",
 		"length": "4",
-		"extent": " mV",
-		"state": "check_extent"
+		"extent": " mV"
 	},
 	{
 		"name": "EMC DVB Table",
