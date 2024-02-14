@@ -1,5 +1,5 @@
 This setting controls the voltage for RAM.
 
-The higher the setting - the less power will be consumed by the RAM.
+Select the value according to the frequency selected in step 4IFIR Ram Mode.
 
 To test the stability - set RAM to 4IFIR Optimized and play some games.
