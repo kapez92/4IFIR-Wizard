@@ -1,1 +1,1 @@
-This setting controlls the internal adaptive mechanism of RAM controller.
+The EMC DVB Table is responsible for managing memory voltage offsets, with a significant impact on power consumption, especially on the memory controller. 
