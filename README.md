@@ -1,6 +1,5 @@
 # 4IFIR-Wizard
 
-No bullshit, just magic.
 
 [RU]
 
